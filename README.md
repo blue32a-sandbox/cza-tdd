@@ -1,2 +1,3 @@
-# cza-tdd
-CodeZine Academy TDD実践講座 2021/01
+# CodeZine Academy TDD実践講座
+
+https://event.shoeisha.jp/cza/tdd
